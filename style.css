@@ -125,6 +125,10 @@ nav ul li a:hover:after {
     left: 0px;
 }
 
+.info{
+    height:75vh;
+}
+
 .content h2 {
     color:#fff;
     font-size: 40px;
